@@ -1,0 +1,6 @@
+A C library for byte, string, I/O, socket, and IPv4/IPv6 handling in addition with the constant database cdb together
+with dnsstub resolver routines for Internet services applying the same or an even enhanced API.
+
+Based one Dan Bernstein's libraries used in Qmail and djbdns.
+
+WWW: https://www.fehcom.de/ipnet/qlibs.html
